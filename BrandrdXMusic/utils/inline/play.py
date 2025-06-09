@@ -196,7 +196,7 @@ def queue_markup(_, videoid, chat_id):
         [
             InlineKeyboardButton(
                 text=_["S_B_5"],
-                url=f"https://t.me/{app.username}?startgroup=true",
+                url=f"https://t.me/AradhanaMusicbot?startgroup=true",
             ),
         ],
         [
@@ -233,7 +233,7 @@ def stream_markup2(_, chat_id):
         [
             InlineKeyboardButton(
                 text=_["S_B_3"],
-                url=f"https://t.me/{app.username}?startgroup=true",
+                url=f"https://t.me/AradhanaMusicbot?startgroup=true",
             ),
         ],
         [
@@ -307,7 +307,7 @@ def panel_markup_1(_, videoid, chat_id):
         [
             InlineKeyboardButton(
                 text=_["S_B_5"],
-                url=f"https://t.me/{app.username}?startgroup=true",
+                url=f"https://t.me/AradhanaMusicbot?startgroup=true",
             ),
         ],
         [
@@ -346,7 +346,7 @@ def panel_markup_2(_, videoid, chat_id):
         [
             InlineKeyboardButton(
                 text=_["S_B_5"],
-                url=f"https://t.me/{app.username}?startgroup=true",
+                url=f"https://t.me/AradhanaMusicbot?startgroup=true",
             ),
         ],
         [
@@ -519,7 +519,7 @@ def panel_markup_clone(_, vidid, chat_id):
         [
             InlineKeyboardButton(
                 text=_["S_B_5"],
-                url=f"https://t.me/{app.username}?startgroup=true",
+                url=f"https://t.me/AradhanaMusicbot?startgroup=true",
             ),
         ],
         [
