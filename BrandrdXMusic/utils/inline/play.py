@@ -68,10 +68,10 @@ def stream_markup_timer(_, vidid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="🥀 Management 🥀", url=f"https://t.me/AradhanaMusicbot"
+                text="🥀 Management 🥀", url=f"https://t.me/ShreyaMusicRobot"
             ),
             InlineKeyboardButton(
-                text="🥀 Chat Bot 🥀", url=f"https://t.me/EraChatrobot"
+                text="🥀 Chat Bot 🥀", url=f"https://t.me/LyraChatRobot"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -90,10 +90,10 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="🥀 Management 🥀", url=f"https://t.me/AradhanaMusicbot"
+                text="🥀 Management 🥀", url=f"https://t.me/ShreyaMusicRobot?startgroup=true"
             ),
             InlineKeyboardButton(
-                text="🥀 Chat Bot 🥀", url=f"https://t.me/EraChatrobot"
+                text="🥀 Chat Bot 🥀", url=f"https://t.me/LyraChatRobot?startgroup=true"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -196,7 +196,7 @@ def queue_markup(_, videoid, chat_id):
         [
             InlineKeyboardButton(
                 text=_["S_B_5"],
-                url=f"https://t.me/AradhanaMusicbot?startgroup=true",
+                url=f"https://t.me/ShreyaMusicRobot?startgroup=true",
             ),
         ],
         [
@@ -233,7 +233,7 @@ def stream_markup2(_, chat_id):
         [
             InlineKeyboardButton(
                 text=_["S_B_3"],
-                url=f"https://t.me/AradhanaMusicbot?startgroup=true",
+                url=f"https://t.me/ShreyaMusicRobot?startgroup=true",
             ),
         ],
         [
@@ -245,10 +245,10 @@ def stream_markup2(_, chat_id):
         ],
 [
             InlineKeyboardButton(
-                text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"https://t.me/The_Aura_Network"
+                text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"https://t.me/TheAuraNetwork"
             ),
             InlineKeyboardButton(
-                text="🥀 ᴄʜᴀᴛ 🥀", url=f"https://t.me/+FmJk4LVQhK01ZmI1"
+                text="🥀 ᴄʜᴀᴛ 🥀", url=f"https://t.me/+sK-U55gxSFAxNWM1"
             ),
         ],
 
@@ -307,7 +307,7 @@ def panel_markup_1(_, videoid, chat_id):
         [
             InlineKeyboardButton(
                 text=_["S_B_5"],
-                url=f"https://t.me/AradhanaMusicbot?startgroup=true",
+                url=f"https://t.me/ShreyaMusicRobot?startgroup=true",
             ),
         ],
         [
@@ -346,7 +346,7 @@ def panel_markup_2(_, videoid, chat_id):
         [
             InlineKeyboardButton(
                 text=_["S_B_5"],
-                url=f"https://t.me/AradhanaMusicbot?startgroup=true",
+                url=f"https://t.me/ShreyaMusicRobot?startgroup=true",
             ),
         ],
         [
@@ -519,7 +519,7 @@ def panel_markup_clone(_, vidid, chat_id):
         [
             InlineKeyboardButton(
                 text=_["S_B_5"],
-                url=f"https://t.me/AradhanaMusicbot?startgroup=true",
+                url=f"https://t.me/ShreyaMusicRobot?startgroup=true",
             ),
         ],
         [
